@@ -1,2 +1,2 @@
 # Docker Cmds
-For Testing Purpose
+Our Notes Regarding Docker (DevOps)
